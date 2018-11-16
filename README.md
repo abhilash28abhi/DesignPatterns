@@ -1,5 +1,6 @@
 # DesignPatterns
 Consists of following GOF patterns
+```
 1. Creational:
 	a.	Singleton
 	b.	Factory
