@@ -6,11 +6,11 @@ Consists of following GOF patterns
 	b.	Factory
 	c.	Abstract Factory
 	d.	Builder
-2. Structural
+2. Structural:
 	a.	Adapter
 	b.	Decorator
 	c.	Facade
-3.	Behavioral
+3. Behavioral:
 	a.	Chain of Responsibility
 	b.	Observer
 	c.	Strategy
